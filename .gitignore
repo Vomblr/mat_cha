@@ -1,0 +1,10 @@
+.idea/
+__pycache__/
+app/__pycache__/
+venv/
+env/
+*.icloud
+.DS_Store
+ssl/
+
+jenkins_home.7z
